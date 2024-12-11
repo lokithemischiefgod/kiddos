@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307138727725",
+    "project_id": "kiddos09-132ea",
+    "storage_bucket": "kiddos09-132ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307138727725:android:2bec11c6c988c9295e4da4",
+        "android_client_info": {
+          "package_name": "com.example.kiddos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuiZuzTVX-29z43Y-jGyHP-NZ8n_e7QdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
